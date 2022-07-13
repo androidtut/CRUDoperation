@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860746681589",
+    "firebase_url": "https://fir-tut-f6b7d-default-rtdb.firebaseio.com",
+    "project_id": "fir-tut-f6b7d",
+    "storage_bucket": "fir-tut-f6b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860746681589:android:8a0dcc4ccee566362489bc",
+        "android_client_info": {
+          "package_name": "com.example.crudoperation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860746681589-lp30qjaltsem9b7l5a465s8in5v8omhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjqjUl5Zdx-K4KeptXOYm3gO60juak_fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860746681589-lp30qjaltsem9b7l5a465s8in5v8omhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
